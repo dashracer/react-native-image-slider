@@ -1,6 +1,8 @@
 # react-native-image-slider
 A quick and easy image slider for react native.
 
+Forked from [PaulBGD](https://github.com/PaulBGD/react-native-image-slider)
+
 ![GIF](final.gif)
 
 ## Installation
